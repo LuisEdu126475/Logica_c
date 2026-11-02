@@ -1,0 +1,32 @@
+
+========================================================================================
+                 RELATORIO OFICIAL - CLUBE E CAMPEONATO DE XADREZ
+                 Data de emissao: 02/11/2026 as 19:26:43
+========================================================================================
+
++--------+------------------------------+--------------------+----------+------------+
+| CODIGO | NOME DO JOGADOR              | CATEGORIA          | VITORIAS | RATING     |
++--------+------------------------------+--------------------+----------+------------+
+| 101    | Eduardo Almeida              | Mestre             | 28       |    2150.50 |
+| 102    | Lucas Oliveira               | Avancado           | 19       |    1840.00 |
+| 103    | Mariana Costa                | Mestre             | 34       |    2210.75 |
+| 104    | Gabriel Santos               | Intermediario      | 12       |    1520.00 |
+| 105    | Beatriz Ferreira             | Avancado           | 21       |    1895.25 |
+| 106    | Rafael Rodrigues             | Iniciante          | 5        |    1210.00 |
+| 107    | Camila Pereira               | Intermediario      | 14       |    1580.50 |
+| 108    | Felipe Gomes                 | Avancado           | 23       |    1930.00 |
+| 109    | Larissa Ribeiro              | Iniciante          | 7        |    1285.00 |
+| 110    | Thiago Martins               | Mestre             | 31       |    2180.00 |
+| 111    | Juliana Carvalho             | Intermediario      | 16       |    1640.25 |
+| 112    | Pedro Henrique               | Iniciante          | 3        |    1150.00 |
++--------+------------------------------+--------------------+----------+------------+
+
+-------------------------------- ESTATISTICAS DO CLUBE ---------------------------------
+  1. Total de jogadores cadastrados : 12 registro(s)
+  2. Soma total de vitorias         : 213 partida(s) vencida(s)
+  3. Soma / Media de Rating do clube: Soma = 20592.25 | Media = 1716.02 pontos
+  4. Maior Rating cadastrado        : 2210.75 (Mariana Costa - Cod. 103)
+  5. Menor Rating cadastrado        : 1150.00 (Pedro Henrique - Cod. 112)
+----------------------------------------------------------------------------------------
+Rodape: Sistema de Gestao de Xadrez em C - Relatorio gerado automaticamente.
+========================================================================================

@@ -1,0 +1,13 @@
+101;Eduardo Almeida;Mestre;28;2150.50
+102;Lucas Oliveira;Avancado;19;1840.00
+103;Mariana Costa;Mestre;34;2210.75
+104;Gabriel Santos;Intermediario;12;1520.00
+105;Beatriz Ferreira;Avancado;21;1895.25
+106;Rafael Rodrigues;Iniciante;5;1210.00
+107;Camila Pereira;Intermediario;14;1580.50
+108;Felipe Gomes;Avancado;23;1930.00
+109;Larissa Ribeiro;Iniciante;7;1285.00
+110;Thiago Martins;Mestre;31;2180.00
+111;Juliana Carvalho;Intermediario;16;1640.25
+112;Pedro Henrique;Iniciante;3;1150.00
+1;Luis;Avancado;5;1650.00
